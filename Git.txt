@@ -1,0 +1,6 @@
+cd
+cd git-repo/
+git init
+git remote add origin https://github.com/Darshanl15/Test.git
+git pull origin master
+git add --all
